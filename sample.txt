@@ -1,0 +1,5 @@
+Some linux commands learned until now.
+
+  cd
+  cd..
+  
